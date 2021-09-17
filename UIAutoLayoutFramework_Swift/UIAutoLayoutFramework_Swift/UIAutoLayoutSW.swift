@@ -16,7 +16,7 @@ public enum BSAdaptScreenWidthType: Int{
     case BSAdaptScreenWidthTypeAll = 4
 }
 
-public let AutoLayoutVersion = "1.0.0"
+public let AutoLayoutVersion = "1.1.0"
 
 public let kscreenWidth = UIScreen.main.bounds.size.width
 public let kscreenHeight = UIScreen.main.bounds.size.height
