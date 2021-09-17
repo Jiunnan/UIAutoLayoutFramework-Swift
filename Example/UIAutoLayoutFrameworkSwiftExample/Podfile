@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+
+target 'UIAutoLayoutFrameworkSwiftExample' do
+  use_frameworks!
+
+  pod "UIAutoLayoutFrameworkSwift", :path => '../../UIAutoLayoutFramework_Swift/'
+
+end

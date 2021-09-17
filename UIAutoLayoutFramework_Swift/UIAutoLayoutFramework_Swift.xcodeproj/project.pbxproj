@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		4DD334EA26F33BEE0028D3CC /* UIAutoLayoutFramework_Swift.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DD334E826F33BEE0028D3CC /* UIAutoLayoutFramework_Swift.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4DD334F126F33C650028D3CC /* UIAutoLayoutSW.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DD334F026F33C640028D3CC /* UIAutoLayoutSW.swift */; };
+		4DD3352E26F436210028D3CC /* UIAutoLayoutSW.swift in Headers */ = {isa = PBXBuildFile; fileRef = 4DD334F026F33C640028D3CC /* UIAutoLayoutSW.swift */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -63,6 +64,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4DD334EA26F33BEE0028D3CC /* UIAutoLayoutFramework_Swift.h in Headers */,
+				4DD3352E26F436210028D3CC /* UIAutoLayoutSW.swift in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

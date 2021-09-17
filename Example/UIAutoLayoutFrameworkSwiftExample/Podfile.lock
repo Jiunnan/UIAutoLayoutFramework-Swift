@@ -1,0 +1,16 @@
+PODS:
+  - UIAutoLayoutFrameworkSwift (1.0.2)
+
+DEPENDENCIES:
+  - UIAutoLayoutFrameworkSwift (from `../../UIAutoLayoutFramework_Swift/`)
+
+EXTERNAL SOURCES:
+  UIAutoLayoutFrameworkSwift:
+    :path: "../../UIAutoLayoutFramework_Swift/"
+
+SPEC CHECKSUMS:
+  UIAutoLayoutFrameworkSwift: 938a8736a65488968305c6585d380d1bc1609b08
+
+PODFILE CHECKSUM: 60b62af5a07e60c6c8141a91450d9bd3065ffb3f
+
+COCOAPODS: 1.8.4

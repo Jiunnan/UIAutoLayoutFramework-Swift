@@ -1,0 +1,6 @@
+framework module UIAutoLayoutFrameworkSwift {
+  umbrella header "UIAutoLayoutFrameworkSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}

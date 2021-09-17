@@ -6,11 +6,18 @@
 //
 
 import UIKit
+import UIAutoLayoutFrameworkSwift
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        let version: String = calVersion()
+        
+        print("UIAutoLayoutFrameworkSwift Version:\(version), Screen width: \(kscreenWidth)")
+        
+        self.view.adaptScreenWidthType(type: .BSAdaptScreenWidthTypeAll, exceptViews: nil)
         // Do any additional setup after loading the view.
     }
 
